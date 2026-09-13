@@ -21,7 +21,8 @@ name = "viser"
 dynamic = ["version"]
 description = "3D visualization + Python"
 readme = "README.md"
-license = { text="MIT" }
+license = "MIT"
+license-files = ["LICENSE"]
 requires-python = ">=3.8"
 classifiers = [
     "Programming Language :: Python :: 3",
